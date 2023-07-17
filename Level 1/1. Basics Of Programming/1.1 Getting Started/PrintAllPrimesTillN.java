@@ -18,7 +18,7 @@
 
 // Constraints :
 
-// 2 <= low < high < 10 ^ 6
+// 2 <= low < high < 10^6
 
 // Sample Input :
 
