@@ -23,7 +23,7 @@
 
 // Constraints :
 
-// 1 <= n <= 100
+// 1 <= n < 100
 // Also, n is odd.
 
 
