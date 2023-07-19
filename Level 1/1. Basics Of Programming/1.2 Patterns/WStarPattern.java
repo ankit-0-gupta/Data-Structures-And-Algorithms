@@ -33,7 +33,11 @@ public class WStarPattern
         {
             for(int j = 1; j <= n; j++)
             {
-                if((j == 1 || j == n) || (i > n / 2 && (i == j || i + j == n + 1)))
+                if(j == 1 || j == n)
+                {
+                    System.out.print("*");
+                }
+                else if(i > n / 2 && (i == j || i + j == n + 1))
                 {
                     System.out.print("*");
                 }
