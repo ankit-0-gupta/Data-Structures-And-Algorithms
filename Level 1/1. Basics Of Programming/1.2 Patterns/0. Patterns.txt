@@ -1,0 +1,24 @@
+1. Square Star Pattern.
+2. Right Triangle Star Pattern.
+3. Inverted Right Triangle Star Pattern.
+4. Mirrored Right Triangle Star Pattern.
+5. Inverted Mirrored Right Triangle Star Pattern.
+6. Upper Half Diamond Star Pattern.
+7. Lower Half Diamond Star Pattern.
+8. Full Diamond Star Pattern.
+9. Hollow Diamond Star Pattern 1.
+10. Hollow Diamond Star Pattern 2.
+11. Full Diamond Number Pattern.
+12. Backward Slash Star Pattern.
+13. Forward Slash Star Pattern.
+14. Cross Star Pattern.
+15. Hollow Diamond Star Pattern 3.
+16. Hourglass Star Pattern.
+17. Arrow Star Pattern.
+18. W Star Pattern.
+19. Swastik Star Pattern.
+20. Right Triangle Number Pattern.
+21. Multiplication Table Pattern.
+22. Fibonacci Pattern.
+23. Pascal Triangle Pattern.
+24. Hill Number Pattern.
