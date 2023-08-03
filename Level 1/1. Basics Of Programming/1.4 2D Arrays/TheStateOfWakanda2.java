@@ -47,7 +47,7 @@
 
 // Output Format :
 
-// Diagonal traversal
+// Diagonal traversal as shonw in output format
 
 // Constraints :
 
