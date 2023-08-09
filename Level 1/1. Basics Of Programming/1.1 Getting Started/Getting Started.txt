@@ -1,0 +1,18 @@
+1. Print Z.
+2. Grading System.
+3. Even or Odd.
+4. Even or Odd for Multiple Numbers.
+5. Multiplication Table of a number.
+6. Multiplication Table from 1 to N.
+7. Is A Number Prime.
+8. Print All Primes Till N.
+9. Count Digits In A Number.
+10. Reverse A Number.
+11. Digits Of A Number.
+12. Rotate A Number.
+13. Pythagorean Triplet.
+14. The Curious Case Of Benjamin Bulbs.
+15. Inverse Of A Number.
+16. Prime Factorization Of A Number.
+17. Gcd And Lcm.
+18. Print Fibonacci Numbers Till N.
