@@ -1,0 +1,11 @@
+1. Print All Palindromic Substrings.
+2. Count Hi.
+3. String Compression.
+4. Count Hi Without Hit.
+5. String Builder Basics.
+6. Toggle Case.
+7. String With Difference Of Every Two Consecutive Characters.
+8. ArrayList Basics.
+9. Remove Given Data From The ArrayList.
+10. Remove All Primes.
+11. Print All Permutations Of A String Iteratively.
