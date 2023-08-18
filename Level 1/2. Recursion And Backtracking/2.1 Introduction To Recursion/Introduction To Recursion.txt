@@ -1,0 +1,10 @@
+1. Print Decreasing.
+2. Print Increasing.
+3. Print Decreasing Increasing.
+4. Print Increasing Decreasing.
+5. Print Increasing Decreasing Even Or Odd.
+6. Factorial.
+7. Power - Linear.
+8. Power - Logarithmic.
+9. Dry Run Question 1.
+10. Dry Run Question 2.
