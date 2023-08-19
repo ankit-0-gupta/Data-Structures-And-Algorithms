@@ -1,0 +1,9 @@
+1. Display Array.
+2. Display Array In Reverse.
+3. Max Of An Array.
+4. Minimum Element.
+5. Find Element Method 1.
+6. Find Element Method 2.
+7. First Index.
+8. Last Index.
+9. All Indices Of An Array.
